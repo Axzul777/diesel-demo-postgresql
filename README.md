@@ -2,14 +2,14 @@
 
 ### DB example of beginners for beginners
 
- ### Installation of PostgreSQL
- * [https://www.postgresql.org/download/](here)
+ ### PostgreSQL Instalation
+[https://www.postgresql.org/download/](here)
 
- ### Installation of diesel
- * [https://diesel.rs/guides/getting-started](here)
+ ### Diesel Instalation
+[https://diesel.rs/guides/getting-started](here)
 
- ### Installation of rust
- * [https://www.rust-lang.org/tools/install](here)
+ ### Rust Installation
+[https://www.rust-lang.org/tools/install](here)
 
 
  ### ProgreSQL Setup
