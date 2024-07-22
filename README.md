@@ -1,4 +1,3 @@
-# diesel-demo-postgresql
 # POSTGRESQL SETUP
 
 ### DB example of beginners for beginners
